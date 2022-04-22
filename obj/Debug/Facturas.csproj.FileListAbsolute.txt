@@ -1,0 +1,11 @@
+E:\2DAM\M7\Facturas\bin\Debug\Facturas.exe.config
+E:\2DAM\M7\Facturas\bin\Debug\Facturas.exe
+E:\2DAM\M7\Facturas\bin\Debug\Facturas.pdb
+E:\2DAM\M7\Facturas\obj\Debug\Facturas.csproj.AssemblyReference.cache
+E:\2DAM\M7\Facturas\obj\Debug\Facturas.Form1.resources
+E:\2DAM\M7\Facturas\obj\Debug\Facturas.Properties.Resources.resources
+E:\2DAM\M7\Facturas\obj\Debug\Facturas.csproj.GenerateResource.cache
+E:\2DAM\M7\Facturas\obj\Debug\Facturas.csproj.CoreCompileInputs.cache
+E:\2DAM\M7\Facturas\obj\Debug\Facturas.exe
+E:\2DAM\M7\Facturas\obj\Debug\Facturas.pdb
+E:\2DAM\M7\Facturas\obj\Debug\Facturas.csproj.ResolveComReference.cache
